@@ -1,0 +1,3 @@
+HAM10000 dataset:
+You can download the dataset here: https://dataverse.harvard.edu/dataset.xhtml?
+persistentId=doi:10.7910/DVN/DBW86T
